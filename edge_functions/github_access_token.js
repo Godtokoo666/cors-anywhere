@@ -51,5 +51,5 @@ export default async function (request) {
     }
   }
 
-  return new Response("a cors proxy by netlify!");
+  return new Response("a cors proxy!");
 }
